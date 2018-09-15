@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\bin\Debug\Listy.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\bin\Debug\Listy.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\bin\Debug\Listy.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\obj\Debug\Listy.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\obj\Debug\Listy.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\obj\Debug\Listy.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Listy\obj\Debug\Listy.pdb

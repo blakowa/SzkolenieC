@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\bin\Debug\ListyZPasmi.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\bin\Debug\ListyZPasmi.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\bin\Debug\ListyZPasmi.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\obj\Debug\ListyZPasmi.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\obj\Debug\ListyZPasmi.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\obj\Debug\ListyZPasmi.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\ListyZPasmi\obj\Debug\ListyZPasmi.pdb

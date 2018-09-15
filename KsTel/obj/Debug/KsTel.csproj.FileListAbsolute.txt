@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\bin\Debug\KsTel.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\bin\Debug\KsTel.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\bin\Debug\KsTel.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\obj\Debug\KsTel.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\obj\Debug\KsTel.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\obj\Debug\KsTel.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\KsTel\obj\Debug\KsTel.pdb

@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\obj\Debug\Ify.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\obj\Debug\Ify.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\bin\Debug\Ify.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\bin\Debug\Ify.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\bin\Debug\Ify.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\obj\Debug\Ify.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Ify\obj\Debug\Ify.pdb

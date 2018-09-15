@@ -1,0 +1,213 @@
+[
+  {
+    "NameProperty": "Dog 1",
+    "ColourProperty": "yellow",
+    "BreedProperty": "Bearded Collie",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 2",
+    "ColourProperty": "gray",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 14
+  },
+  {
+    "NameProperty": "Dog 3",
+    "ColourProperty": "gray",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 10
+  },
+  {
+    "NameProperty": "Dog 4",
+    "ColourProperty": "yellow",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 9
+  },
+  {
+    "NameProperty": "Dog 5",
+    "ColourProperty": "brown",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 14
+  },
+  {
+    "NameProperty": "Dog 6",
+    "ColourProperty": "gray",
+    "BreedProperty": "Boxer",
+    "HungryProperty": true,
+    "AgeProperty": 4
+  },
+  {
+    "NameProperty": "Dog 7",
+    "ColourProperty": "brown",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 4
+  },
+  {
+    "NameProperty": "Dog 8",
+    "ColourProperty": "blue",
+    "BreedProperty": "German shepherd",
+    "HungryProperty": true,
+    "AgeProperty": 4
+  },
+  {
+    "NameProperty": "Dog 9",
+    "ColourProperty": "blue",
+    "BreedProperty": "German shepherd",
+    "HungryProperty": true,
+    "AgeProperty": 13
+  },
+  {
+    "NameProperty": "Dog 10",
+    "ColourProperty": "blue",
+    "BreedProperty": "Bearded Collie",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 11",
+    "ColourProperty": "white",
+    "BreedProperty": "Beagle",
+    "HungryProperty": true,
+    "AgeProperty": 9
+  },
+  {
+    "NameProperty": "Dog 12",
+    "ColourProperty": "gray",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 13",
+    "ColourProperty": "green",
+    "BreedProperty": "Beagle",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 14",
+    "ColourProperty": "yellow",
+    "BreedProperty": "Beagle",
+    "HungryProperty": true,
+    "AgeProperty": 8,
+
+  },
+  {
+    "NameProperty": "Dog 15",
+    "ColourProperty": "blue",
+    "BreedProperty": "Bearded Collie",
+    "HungryProperty": true,
+    "AgeProperty": 1
+  },
+  {
+    "NameProperty": "Dog 16",
+    "ColourProperty": "gray",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 5
+  },
+  {
+    "NameProperty": "Dog 17",
+    "ColourProperty": "yellow",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 1
+  },
+  {
+    "NameProperty": "Dog 18",
+    "ColourProperty": "white",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 12
+  },
+  {
+    "NameProperty": "Dog 19",
+    "ColourProperty": "brown",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 2
+  },
+  {
+    "NameProperty": "Dog 20",
+    "ColourProperty": "yellow",
+    "BreedProperty": "Boxer",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 21",
+    "ColourProperty": "yellow",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 7
+  },
+  {
+    "NameProperty": "Dog 22",
+    "ColourProperty": "blue",
+    "BreedProperty": "Bearded Collie",
+    "HungryProperty": true,
+    "AgeProperty": 7
+  },
+  {
+    "NameProperty": "Dog 23",
+    "ColourProperty": "gray",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 1
+  },
+  {
+    "NameProperty": "Dog 24",
+    "ColourProperty": "white",
+    "BreedProperty": "Beagle",
+    "HungryProperty": true,
+    "AgeProperty": 10
+  },
+  {
+    "NameProperty": "Dog 25",
+    "ColourProperty": "gray",
+    "BreedProperty": "German shepherd",
+    "HungryProperty": true,
+    "AgeProperty": 12
+  },
+  {
+    "NameProperty": "Dog 26",
+    "ColourProperty": "green",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 14
+  },
+  {
+    "NameProperty": "Dog 27",
+    "ColourProperty": "blue",
+    "BreedProperty": "German shepherd",
+    "HungryProperty": true,
+    "AgeProperty": 10
+  },
+  {
+    "NameProperty": "Dog 28",
+    "ColourProperty": "white",
+    "BreedProperty": "German shepherd",
+    "HungryProperty": true,
+    "AgeProperty": 6
+  },
+  {
+    "NameProperty": "Dog 29",
+    "ColourProperty": "blue",
+    "BreedProperty": "Spanniel",
+    "HungryProperty": true,
+    "AgeProperty": 2
+  },
+  {
+    "NameProperty": "Dog 30",
+    "ColourProperty": "green",
+    "BreedProperty": "American Foxhound",
+    "HungryProperty": true,
+    "AgeProperty": 9
+  }
+]

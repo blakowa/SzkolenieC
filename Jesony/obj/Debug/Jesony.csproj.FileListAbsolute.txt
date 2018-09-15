@@ -1,0 +1,11 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\obj\Debug\Jesony.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\obj\Debug\Jesony.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\Jesony.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\Jesony.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\Jesony.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\obj\Debug\Jesony.csproj.CopyComplete
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\obj\Debug\Jesony.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\obj\Debug\Jesony.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Jesony\bin\Debug\dogsList.json

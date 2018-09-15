@@ -1,0 +1,10 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\bin\Debug\Kolekcje.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\bin\Debug\Kolekcje.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\bin\Debug\Kolekcje.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\obj\Debug\Kolekcje.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\obj\Debug\Kolekcje.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\obj\Debug\Kolekcje.csproj.CopyComplete
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\obj\Debug\Kolekcje.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kolekcje\obj\Debug\Kolekcje.pdb

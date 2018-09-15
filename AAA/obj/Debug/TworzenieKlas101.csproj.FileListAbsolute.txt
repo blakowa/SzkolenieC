@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\bin\Debug\AAA.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\bin\Debug\AAA.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\bin\Debug\AAA.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\obj\Debug\TworzenieKlas101.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\obj\Debug\TworzenieKlas101.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\obj\Debug\AAA.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\AAA\obj\Debug\AAA.pdb

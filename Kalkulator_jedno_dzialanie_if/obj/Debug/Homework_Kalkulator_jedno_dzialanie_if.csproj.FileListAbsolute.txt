@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\bin\Debug\Kalkulator_jedno_dzialanie_if.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\bin\Debug\Kalkulator_jedno_dzialanie_if.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\bin\Debug\Kalkulator_jedno_dzialanie_if.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\obj\Debug\Homework_Kalkulator_jedno_dzialanie_if.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\obj\Debug\Homework_Kalkulator_jedno_dzialanie_if.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\obj\Debug\Kalkulator_jedno_dzialanie_if.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Kalkulator_jedno_dzialanie_if\obj\Debug\Kalkulator_jedno_dzialanie_if.pdb

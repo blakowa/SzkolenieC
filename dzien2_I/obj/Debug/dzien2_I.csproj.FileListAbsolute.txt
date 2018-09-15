@@ -1,0 +1,6 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\bin\Debug\dzien2_I.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\bin\Debug\dzien2_I.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\bin\Debug\dzien2_I.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\obj\Debug\dzien2_I.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\obj\Debug\dzien2_I.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\dzien2_I\obj\Debug\dzien2_I.pdb

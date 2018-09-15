@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\bin\Debug\KalkObj.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\bin\Debug\KalkObj.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\bin\Debug\KalkObj.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\obj\Debug\KalkObj.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\obj\Debug\KalkObj.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\obj\Debug\KalkObj.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\KalkObj\obj\Debug\KalkObj.pdb

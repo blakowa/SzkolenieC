@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\bin\Debug\ZabawaStringami.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\bin\Debug\ZabawaStringami.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\bin\Debug\ZabawaStringami.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\obj\Debug\ZabawaStringami.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\obj\Debug\ZabawaStringami.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\obj\Debug\ZabawaStringami.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\ZabawaStringami\obj\Debug\ZabawaStringami.pdb

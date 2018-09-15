@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\bin\Debug\Wypisz2.exe.config
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\bin\Debug\Wypisz2.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\bin\Debug\Wypisz2.pdb
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\obj\Debug\Wypisz2.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\obj\Debug\Wypisz2.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\obj\Debug\Wypisz2.exe
+C:\Users\kowal\source\repos\SzkolenieCsharp\Wypisz2\obj\Debug\Wypisz2.pdb
